@@ -1,6 +1,9 @@
 _repo: The-Black-Tulip_965
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: La tulipe noire. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dumas, Alexandre
@@ -15,6 +18,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
 description: "The Black Tulip is a historical novel written by Alexandre Dumas, père.\n\
   \n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/965#The-Black-Tulip
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '1997-07-01'
 gutenberg_type: Text
